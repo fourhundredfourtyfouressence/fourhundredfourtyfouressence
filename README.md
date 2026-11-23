@@ -1,7 +1,7 @@
 # I DON'T EVEN KNOW WHAT AM I DOIN HERE VRO😭🙏
 ## BACHELOR IN COMPUTER SCIENCE
 ![CUK](https://study.coventry.edu.kz/images/tild3430-6463-4535-b366-386535333937__image.png) <br>
-<h2>2026 - 2029
+<h3>2026 - 2029</h3>  
 ## FW
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
