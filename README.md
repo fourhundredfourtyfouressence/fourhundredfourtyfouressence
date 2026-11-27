@@ -1,6 +1,6 @@
 # I DON'T EVEN KNOW WHAT AM I DOIN HERE VRO😭🙏
 ## BACHELOR IN COMPUTER SCIENCE
-![CUK](https://study.coventry.edu.kz/images/tild3430-6463-4535-b366-386535333937__image.png)
+![CUK](https://study.coventry.edu.kz/images/tild3430-6463-4535-b366-386535333937__image.png) <br>
 **2026 - 2029**
 ## FW
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
@@ -17,5 +17,5 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 # STRAIGHT EDGE 'TILL I'M DEAD
 ![STRAIGH EDGE](https://media1.tenor.com/m/U7lu6mW97q0AAAAC/darylpalumbo-glassjaw.gif)
-<img src="1128.gif" width="400">
+<img src="1128.gif" width="600">
 
