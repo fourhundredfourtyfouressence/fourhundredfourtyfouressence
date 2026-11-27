@@ -1,7 +1,13 @@
 # I DON'T EVEN KNOW WHAT AM I DOIN HERE VRO😭🙏
+<<<<<<< HEAD
 ## BACHELOR IN COMPUTER SCIENCE
 ![CUK](https://study.coventry.edu.kz/images/tild3430-6463-4535-b366-386535333937__image.png)
 2026 - 2029
+=======
+## BACHELOR IN COMPUTER SCIENCE AT
+![CUK](https://study.coventry.edu.kz/images/tild3430-6463-4535-b366-386535333937__image.png) <br>
+**2026 - 2029**
+>>>>>>> 416d6fdddd7ee19027c2ba6ae4ef3f7ada389235
 ## FW
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -16,6 +22,7 @@
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 #
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+<<<<<<< HEAD
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)# I DON'T EVEN KNOW WHAT AM I DOIN HERE VRO😭🙏
 ## BACHELOR IN COMPUTER SCIENCE AT
 ![CUK](https://study.coventry.edu.kz/images/tild3430-6463-4535-b366-386535333937__image.png) <br>
@@ -38,3 +45,9 @@
 # STRAIGHT EDGE 'TILL I'M DEAD
 ![STRAIGH EDGE](https://media1.tenor.com/m/U7lu6mW97q0AAAAC/darylpalumbo-glassjaw.gif)
 <img src="1128.gif" width="300">
+=======
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) <br>
+# STRAIGHT EDGE 'TILL I'M DEAD
+![STRAIGH EDGE](https://media1.tenor.com/m/U7lu6mW97q0AAAAC/darylpalumbo-glassjaw.gif)
+
+>>>>>>> 416d6fdddd7ee19027c2ba6ae4ef3f7ada389235
