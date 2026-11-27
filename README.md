@@ -17,5 +17,5 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 # STRAIGHT EDGE 'TILL I'M DEAD
 ![STRAIGH EDGE](https://media1.tenor.com/m/U7lu6mW97q0AAAAC/darylpalumbo-glassjaw.gif)
-<img src="1128.gif" width="600">
+<img src="1128.gif" width="500">
 
